@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 70vh;
+}
+.contact-img {
+  width: 150px;
+}
+.contact-heading {
+  font-family: 'Roboto';
+  color: #6d3966;
+  font-weight: 500;
+}
